@@ -1,2 +1,3 @@
 # sharvari-demo
-This is my forst git repository
+This is my first git repository
+author sharvai khose
